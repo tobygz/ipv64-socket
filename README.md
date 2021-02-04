@@ -19,3 +19,5 @@ On Linux:
 2. on one terminal, do ./64server
 3. on another terminal, do ./64client 127.0.0.1 to connect use IPv4, Or do
    ./64client ::1 to connect using IPv6
+
+<img src="./cap.jpg"> </img>
