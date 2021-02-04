@@ -21,3 +21,4 @@ On Linux:
    ./64client ::1 to connect using IPv6
 
 <img src="./cap.jpg"> </img>
+<img src='./ipv4_6.jpg'> </img>
